@@ -11,7 +11,4 @@ public class EmployeeInfo {
     final int[] BETWEEN_YEAR={9,20};
     final double BETWEEN_YEAR_RAISE=10;
     final double MAX_YEAR_RAISE=15;
-
-
-
 }
